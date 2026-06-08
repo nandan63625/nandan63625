@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @nandan63625
-- 👀 I’m interested in video editing 
-- 🌱 I’m currently learning coading and little bit free lancing 
-- 💞️ I’m looking to collaborate on video editing
-- 📫 How to reach me (nandannandan02904@gmail.com)
-- 😄 Pronouns:NANDAN
-- ⚡ Fun fact: even i dont know
+Hi, I'm Nandan Kumar
 
-<!---
-nandan63625/nandan63625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ECE Student at SJCIT
+IEEE Student Branch President
+
+Interested in:
+- Embedded Systems
+- IoT
+- PCB Design
+- ESP32 Development
+- FreeRTOS
+
+Currently working on:
+- EV Fleet Management System
+- Smart Wheelchair Project
+
+Tools:
+- KiCad
+- ESP32
+- GitHub
+- Arduino IDE
+
+Goal:
+To build industry-level embedded systems and firmware projects.
